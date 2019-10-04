@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
+token=NjIzMTU2NDk5Mzc5OTEyNzIw.XZdV2g.az8qDkbhqSlV_d_732-ABo5FNjw
+owner=  458146650758840320
+prefix= J
 game= Type help
 stayinchannel=true
-songinstatus=true
+songinstatus=false
